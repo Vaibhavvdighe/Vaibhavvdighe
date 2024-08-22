@@ -1,6 +1,7 @@
 # Hello there! 👋🏻 I am Vaibhav Dighe!
 
-I am <b>Vaibhav Dighe</b>. I am currently an undergraduate student pursuing my degree in Computer Engineering from Dr. D.Y Patil Institute Of Technology,Pimpri,Pune. I am a Web Developer and also currently developing keen interest in Problem Solving.
+I am <b>Vaibhav Dighe</b>. I recently graduated with a degree in Computer Engineering from Dr. D. Y. Patil Institute Of Technology,Pimpri,Pune. 
+I am a Web Developer and also currently developing keen interest in Problem Solving.
 
 I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am currently exploring the field of Machine Learning and BackEnd Development.I am looking forward to collaborate on, and help with any Web Development related projects as this is my prime field of interest and I love exploring new tools I could contribute in building which could have an everlasting effect on humanity.
 <br /><br />
