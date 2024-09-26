@@ -16,5 +16,5 @@ I am skilled in programming languages like HTML,CSS,JavaScript and C++. I am cur
 <br />
 ## Connect with Me 🤝🏻
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Vaibhavvdighe)
-[![Linkedin ][((https://www.linkedin.com/in/vaibhav-dighe-b3387621a) [![GitHub followers](https://img.shields.io/github/followers/Vaibhavvdighe?label=Follow&style=social)]](https://github.com/Vaibhavvdighe/?tab=follow)]
+[![Linkedin ][((https://www.linkedin.com/in/vaibhavdighe) [![GitHub followers](https://img.shields.io/github/followers/Vaibhavvdighe?label=Follow&style=social)]](https://github.com/Vaibhavvdighe/?tab=follow)]
 <hr />
